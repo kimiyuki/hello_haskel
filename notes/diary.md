@@ -13,5 +13,9 @@
 - (x:xs)、:で、リストで最初の要素と残りの要素リスト？に分けて考えることができる?
 
 ## day2
+### preview
 - day1のreveiw: consの再帰構造。 data List a = Nil | Cons a (List a)
 - consは、先頭要素と残りのリストという構造に分かれている。
+### review
+- map, filter, foldl' をやった。簡単な意味構造。mapしてfoldlして。。
+- 関数合成の書き方。右から左。引数かかずに定義できる。
